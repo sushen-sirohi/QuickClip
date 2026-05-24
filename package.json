@@ -1,0 +1,15 @@
+{
+  "name": "quickclip",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Fast local clipboard history app built with Tauri.",
+  "type": "module",
+  "scripts": {
+    "tauri": "tauri",
+    "dev": "tauri dev",
+    "build": "tauri build"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2"
+  }
+}
