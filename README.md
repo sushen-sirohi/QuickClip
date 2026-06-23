@@ -1,3 +1,4 @@
+# This project is highly unstable on latest macOS versions and may have unstability on windows 10 and above. It is uncompiled and can lead to build errors. If you have any issues, feel free to file a ticket in the issues tab. 
 # QuickClip
 
 QuickClip is a fast, local clipboard manager built with Tauri. It captures text, links, and images instantly, stores history on disk, and never sends data off your machine.
